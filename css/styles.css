@@ -196,8 +196,7 @@
 }
 
 @media screen and (max-device-width: 360px){
-    @media screen and (max-device-width: 360px){
-    #title-img{
+   #title-img{
         transform: rotate(0deg);
     }
 }
