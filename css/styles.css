@@ -196,8 +196,9 @@
 }
 
 @media screen and (max-device-width: 360px){
-    #h1font{
-        color: red;
+    @media screen and (max-device-width: 360px){
+    #title-img{
+        transform: rotate(0deg);
     }
 }
 
